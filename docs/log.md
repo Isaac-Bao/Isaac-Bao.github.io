@@ -1,6 +1,8 @@
-# Weapon System Timeline Log
+# Weapon System Log
 
 > [24.10.15~24.11.20](https://m0dorknyq14.feishu.cn/docx/CZlFdMmrUoY3QFx8XVZcaStenBe?from=from_copylink) 
+
+> 文中的`[图片]`以及`暂时无法在飞书文档外展示此内容`字样的内容可能无法在飞书文档外展示，后续会逐渐补上
 
 ---
 

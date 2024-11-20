@@ -1,2 +1,2 @@
-* [首页](/README.md)
-* [Log日志](/log.md)
+* [Intro](/README.md)
+* [Weapon System Log](/log.md)
