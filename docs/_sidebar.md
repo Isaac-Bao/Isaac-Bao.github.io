@@ -1,2 +1,2 @@
 * [Intro](/README.md)
-* [Weapon System Log](/log.md)
+* [Character System Log](/log.md)
