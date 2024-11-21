@@ -137,7 +137,7 @@ li input[type=checkbox] {
     margin: 0;
     
     /* 解决手机响应式nav会遮住三条横线的bug */
-    padding: 0; 
+    /* padding: 0;  */
 }
 
 .app-nav a {
@@ -340,7 +340,7 @@ main.hidden {
     outline: none;
     padding: 10px;
     position: absolute;
-    /* bottom: 0; */
+    bottom: 0;
     left: 0;
     text-align: center;
     transition: opacity .3s;
