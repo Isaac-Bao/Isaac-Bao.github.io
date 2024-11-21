@@ -135,7 +135,9 @@ li input[type=checkbox] {
     display: inline-block;
     list-style: none;
     margin: 0;
-    padding: 0; 解决手机响应式nav会遮住三条横线的bug
+    
+    /* 解决手机响应式nav会遮住三条横线的bug */
+    padding: 0; 
 }
 
 .app-nav a {
