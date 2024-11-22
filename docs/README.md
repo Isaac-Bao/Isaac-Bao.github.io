@@ -20,5 +20,5 @@
 ---
 
 ### **Getting Start with**：
-- ➡️ [Character Log](/logs/readme.md)
+- ➡️ [Character Log](/character/readme.md)
 - ➡️ [Website Log](/update/readme.md)
