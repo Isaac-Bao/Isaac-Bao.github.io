@@ -1,6 +1,6 @@
 # AI Section
 
-> Via @SteveLiu
+> Via @Steve Liu
 
 ---
 

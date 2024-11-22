@@ -1,6 +1,6 @@
 # Character & Weapon
 
-> Via [@IsaacBao](https://ganzhe.site)
+> Via [@Isaac Bao](https://ganzhe.site)
 
 ---
 
