@@ -1,4 +1,4 @@
 * Other 2 Sections
-    * [AI Section](/ai.md)
-    * [The Background Setting and Story](/bg.md)
-* [Author](https://ganzhe.site)
+    * [AI Section](/other-logs/ai.md)
+    * [The Background Setting and Story](/other-logs/bg.md)
+* [**Feedback**](/feedback/feedback.md)

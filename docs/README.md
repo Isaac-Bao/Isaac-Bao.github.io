@@ -2,6 +2,12 @@
 
 > An awesome project.
 
+### 成员
+- Isaac Bao (https://ganzhe.site)
+- Max Cheng
+- Steve Liu
+- Gwilym Li
+
 ### 题目
 
 代号BCLL（FPS硬核单机游戏）
@@ -13,4 +19,6 @@
 
 ---
 
-**Getting Start with**：➡️ [BCLL Docs](/log.md) ⬅️
+### **Getting Start with**：
+- ➡️ [Character Log](/logs/readme.md)
+- ➡️ [Website Log](/update/readme.md)
