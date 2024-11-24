@@ -1,4 +1,4 @@
-* [Back to Home](/readme.md)
+* [Back to Home](/readme?id=bcll-fps)
 * [Intro](/minepart/readme.md)
 ---
 
