@@ -22,3 +22,5 @@
 ### **Getting Start with**：
 - ➡️ [Character Log](/minepart/readme.md)
 - ➡️ [Website Log](/update/readme.md)
+
+> 📱手机端左下角三条杠展开即可查看目录
