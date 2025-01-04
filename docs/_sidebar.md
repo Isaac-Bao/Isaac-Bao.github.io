@@ -1,4 +1,4 @@
-<!-- - [Intro](/readme.md) -->
+<!-- - [Introduction](/readme.md) -->
 
 - [Character System Log](/minepart/readme.md)
 - [Doc Update Log](/update/readme.md)
